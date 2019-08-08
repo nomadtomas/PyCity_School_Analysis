@@ -1,4 +1,4 @@
-#SCHOOL STUDY FINDINGS
+# SCHOOL STUDY FINDINGS
 
 The findings of the initial analysis of 15 different High Schools has been quite revealing. The overall passing rate the aggregate of reading and math is of 80.4 percent, with a passing rate of 85.8 percent in reading and 75.0 percent for math.
 
